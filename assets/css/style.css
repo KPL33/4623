@@ -22,7 +22,7 @@ HTML elements)*/
 
 
 /*Removed .seo class from the selector directly above because it was not displaying
-properly (in a very light-greenc olor).
+properly (in a very light-green color).
 Calling it as a unique seletor resolved this issue.*/
 .seo {
   color: #d9dcd6;
