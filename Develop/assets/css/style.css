@@ -52,6 +52,7 @@ a {
 
 p {
   font-size: 16px;
+  color: white;
 }
 
 
@@ -89,6 +90,10 @@ body {
   margin-left: 20px;
 }
 
+/*Changed background color here slightly to ensure 'benefits'
+text had enough contrast against background to be legible, while
+keeping the color slightly different from the <sections>
+to the let of it.*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -97,7 +102,7 @@ body {
   width: 20%;
   height: 100%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #2589bd;
+  background-color: #0577be;
 }
 
 /*styles from here to footer contain seletors that were
